@@ -1,0 +1,1 @@
+In the "Netflix" project repository, you'll find the code for creating a web page that looks like Netflix. We've used HTML and CSS to mimic the design and layout of Netflix's homepage. This project is a great way to begin building similar web interfaces or to learn web development techniques.
